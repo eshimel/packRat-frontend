@@ -9,7 +9,7 @@ date created/uploaded date modified owner (person who uploaded the file) tags Re
 Ordinary users can only read/download a file. Owners can do anything, and only owners can destroy or move a file. 'collaborators' can be chosen; they have permission to read from and write to files.
 packRat is a file storage app.
 
-Given the flexible storage options of Mongodb, the behavior of these furry little critters, seems to reflect the flexibility of document attributes. Packrats, also called woodrats, build complex houses or dens made of twigs, cactus joints, and other materials. These contain several nest chambers, food caches, and debris piles. These debris piles are called Middens, and have been know to preserve materials gathered by the packrats for 50, 000. Packrats also like shiny things and will drop whatever they are carrying for something that they like better.
+Given the flexible storage options of Mongodb, the behavior of these furry little critters, seems to reflect the flexibility of document attributes. Packrats, also called woodrats, build complex houses or dens made of twigs, cactus joints, and other materials. These contain several nest chambers, food caches, and debris piles. These debris piles are called Middens, and have been know to preserve materials gathered by the packrats for 50,000 years. Packrats also like shiny things and will drop whatever they are carrying for something that they like better.
 #User Stories:
 
 The following user stories should be considered our “Active User Stories”, with notes and the group’s plan of execution.
